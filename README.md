@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Lucas Pacheco 👋</h1>
-<h3 align="center">LLM Researcher | Backend Developer</h3>
+<h3 align="center">Graduando em Ciência da Computação </h3>
 
 <p align="center">
-  <em>Building intelligent agents, scalable RAG architectures, and LLMOps pipelines.</em>
+  <em>Especializando em Análise e Exploração de Dados, com foco em automação e visualização estratégica.</em>
 </p>
 
 <p align="center">
@@ -12,21 +12,14 @@
 
 ---
 
-### 🚀 About Me
+Atualmente estudante de Ciencia de Computacao pela **UFF** e Tecnico de Suporte na **NTSEC**. Meu interesse é resolver problemas complexos na interseção entre **Backend**,**IA Generativa** e **Automação**.
 
-I'm a Computer Science student at **UFF** (Universidade Federal Fluminense) and currently an **AI Research & Development Intern at IBM Research**. My focus has shifted from pure backend development to the cutting edge of Generative AI, where I design systems that bridge the gap between research models and production products.
+Hoje, meu foco não é apenas treinar modelos, mas construir a arquitetura que os torna úteis no mundo real.
 
-- 🔭 **I’m currently working on:** - **Knowledge Extraction Pipeline (KEP):** Acting as the core maintainer for this LLMOps/RAG tool at IBM, which powers the Knowledge Base Extraction (KBE) product.
-  - **Safe Materials Advisor:** Building agents to extract hazard info from Safety Data Sheets (SDS).
+**No meu radar de estudos:**
+Estou aprofundando conhecimentos em **RAG Avançado**, **Agentes Autônomos**. e
 
-- 🔬 **Research focus:** - Conducting qualitative research on using LLMs for test data generation (Article approved for Latam School - LCSE 2026).
-  - Exploring the latest models: **Llama 3/4, Gemini 2.5, GPT-4, and IBM Granite**.
-
-- 🛠️ **I’m currently refining:** - Advanced RAG techniques, Agentic Workflows, and Vector Databases.
-
----
-
-### 💻 Tech Stack
+### 💻 Tecnologias e Ferramentas
 
 **GenAI & Data Science**
 <p>
@@ -51,38 +44,3 @@ I'm a Computer Science student at **UFF** (Universidade Federal Fluminense) and 
 
 ---
 
-### 🏆 Featured Project
-
-<div align="center">
-
-  <h3>🧪 BDD Test Case Generator</h3>
-
-  <p>
-    <strong>An LLM-powered Plugin for IntelliJ IDEA & CLI Tool</strong>
-  </p>
-
-  <p>
-    This tool leverages <strong>Autonomous Agents</strong> to automate the generation of Behavior-Driven Development (BDD) test scenarios. It represents the practical application of my academic research on LLMs for software testing.
-  </p>
-
-  <p>
-    <a href="https://github.com/GusMedeiros/BDD-Test-Case-Generator">
-      <img src="https://img.shields.io/badge/View_Project-GitHub-black?style=for-the-badge&logo=github" alt="View Project" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-    <img src="https://img.shields.io/badge/IntelliJ_Platform-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-    <img src="https://img.shields.io/badge/LLM_Agents-Success?style=flat-square" />
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
-  </p>
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GusMedeiros&show_icons=true&theme=dracula&hide_border=true" alt="Lucas Pacheco's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusMedeiros&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
